@@ -1,0 +1,7 @@
+# 插件目录
+1、~/Library/Application Support/Developer/Shared/Xcode/Plug-ins
+
+2、~/Library/Developer/Xcode/Plug-ins 
+
+# UserData目录
+~/Library/Developer/Xcode/Plug-ins
